@@ -2,3 +2,4 @@ Hello world.
 I'm QA-Engineer.
 Created new branch.
 New commit in new branch.
+Commit from fork. Author Kathe Rogova.
